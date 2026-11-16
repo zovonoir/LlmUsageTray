@@ -1,0 +1,14 @@
+build/
+*.user
+*.dpapi
+config.json
+cache.json
+cache.json.bak
+dist/
+tests/last-result.txt
+*.tmp
+*.bak
+.env
+.env.*
+*.log
+local-data/
